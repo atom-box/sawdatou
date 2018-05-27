@@ -2,5 +2,8 @@
 
 const MAX = 20;
 
-const  = 
-return Math.floor( Math.random()*MAX);
+const trix = function() {
+	return Math.floor( Math.random()*MAX);
+}
+
+module.exports = trix;
