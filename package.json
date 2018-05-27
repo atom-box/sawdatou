@@ -1,0 +1,24 @@
+{
+  "name": "hahn3",
+  "version": "1.0.0",
+  "description": "syntax sandbox. create a simple front and Express.js backend similar to Hahn's Express In Action, chapters 2 and 3.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom-box/sawdatou.git"
+  },
+  "keywords": [
+    "sandbox",
+    "express",
+    "javascript"
+  ],
+  "author": "@mistergenest Evan Genest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atom-box/sawdatou/issues"
+  },
+  "homepage": "https://github.com/atom-box/sawdatou#readme"
+}
