@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/atom-box/sawdatou/issues"
   },
-  "homepage": "https://github.com/atom-box/sawdatou#readme"
+  "homepage": "https://github.com/atom-box/sawdatou#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
 }
