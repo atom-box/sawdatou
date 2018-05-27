@@ -2,7 +2,7 @@
   "name": "hahn3",
   "version": "1.0.0",
   "description": "syntax sandbox. create a simple front and Express.js backend similar to Hahn's Express In Action, chapters 2 and 3.",
-  "main": "app.js",
+  "main": "randomMoustacheExternal.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
